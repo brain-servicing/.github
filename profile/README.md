@@ -15,6 +15,7 @@ To ensure a positive and productive environment for everyone, please follow the 
 
 ### ✅ Commit Messages & PRs
 - Write clear and descriptive commit messages.
+- Create your own branch then only push to main
 - Group related changes into a single commit or PR.
 - Include context in PR descriptions and reference related issues when applicable.
 
